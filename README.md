@@ -1,7 +1,6 @@
-# Hi there 👋
+# Здрысьте!
 
-## GitHub Stats
+Я 13-летний C# разработчик(сильно сказано), иногда пилю какие нибудь мелкие приложухи и игрушки
 
-![Stats](https://github-readme-stats.vercel.app/api?username=max-parkhomenko&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-parkhomenko&layout=compact)
+# Репозитории
+Пока один - ![five-letters](https://github.com/max-parkhomenko/)
